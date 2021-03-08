@@ -10,7 +10,7 @@ for migrating code across a breaking change.
 The following guides are available. They are sorted by
 release, and listed in alphabetical order:
 
-### Not yet released to stable
+### Released in Flutter 1.22
 
 * [Eliminating `nullOk` Parameters][]
 * [Android ActivityControlSurface attachToActivity signature change][]
@@ -36,7 +36,7 @@ release, and listed in alphabetical order:
 [Use maxLengthEnforcement instead of maxLengthEnforced]: /docs/release/breaking-changes/use-maxLengthEnforcement-instead-of-maxLengthEnforced
 [Deprecated API removed after v1.22]: /docs/release/breaking-changes/1-22-deprecations
 
-### Released in Flutter 1.22
+### Released in Flutter 2.0.0
 
 * [Android v1 embedding app and plugin creation deprecation][]
 * [Cupertino icons 1.0.0][]
